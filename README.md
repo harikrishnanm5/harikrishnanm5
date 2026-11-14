@@ -8,7 +8,6 @@
 
 <br/>
 
-<img align="right" src="./alya.gif" width="280" alt="Alisa Mikhailovna Kujou (Alya)" style="border-radius: 10px;" />
 
 ### 🌸 About Me
 
