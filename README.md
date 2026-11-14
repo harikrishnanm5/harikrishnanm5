@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&width=500&lines=VLSI+%26+Embedded+Systems;ECE+@+KARE+(Class+of+2028);NXP+Cup+India+2026+Team+Lead;Aiming+for+Physical+Design" alt="Typing SVG" />
 </p>
 
-<img align="right" src="./pixel_art.gif" width="180" alt="Pixel Art Profile Companion" />
 
 ### 🔧 About
 - 🎓 Second-year B.Tech ECE @ Kalasalingam Academy of Research and Education
