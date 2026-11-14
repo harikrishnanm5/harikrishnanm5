@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Hari's Engineering & Study Desk with Alya" style="border-radius: 12px;" />
-</p>
-
 <div align="center">
 
   <h1>⚡ Hari Krishnan 👋</h1>
@@ -11,6 +7,10 @@
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=VLSI+%26+Embedded+Systems+Engineer;ECE+@+KARE+(Class+of+2028);Team+Lead%2C+NXP+Cup+India+2026;Silicon%2C+RTL+%26+Physical+Design;Building+Autonomous+Racing+Hardware" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <img src="./banner.png" width="550" alt="Hari's Engineering & Study Desk with Alya" style="border-radius: 16px;" />
 
 </div>
 
