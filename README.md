@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Hari's Engineering & Study Desk with Alya" style="border-radius: 12px;" />
+</p>
+
 <div align="center">
 
   <h1>⚡ Hari Krishnan 👋</h1>
@@ -12,19 +16,12 @@
 
 <br/>
 
-<img align="right" src="./alya.gif" width="230" alt="Mascot: Alya" style="border-radius: 8px; margin-left: 20px;" />
-
 ### 👨‍💻 About Me
-
-> ❄️ **Favorite Anime Mascot**: Alisa Mikhailovna Kujou (*Roshidere*)  
-> 💬 *«Посмотри на его проекты!» — "Go check out his engineering projects!"*
 
 - 🎓 **Undergrad**: Second-year B.Tech in Electronics and Communication Engineering (ECE) at **Kalasalingam Academy of Research and Education** (Class of 2028).
 - 🔬 **Core Focus**: **VLSI Design**, **Physical Design**, RTL Architecture & Timing Closure.
 - 🏎️ **Leadership**: **Team Lead** for **NXP Cup India 2026** (Autonomous model racing car design and embedded firmware).
 - ⚡ **Passion**: Crafting bare-metal firmware, digital logic circuits, and silicon hardware architectures.
-
-<br clear="right"/>
 
 ---
 
