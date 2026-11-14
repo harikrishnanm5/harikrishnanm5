@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <img src="./banner.png" width="550" alt="Hari's Engineering & Study Desk with Alya" style="border-radius: 16px;" />
+
 
 </div>
 
