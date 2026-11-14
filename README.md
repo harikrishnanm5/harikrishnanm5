@@ -1,23 +1,28 @@
 <div align="center">
 
-  <h1>✨ Hi there, I'm Hari Krishnan 👋</h1>
+  <h1>⚡ Hari Krishnan 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=VLSI+%26+Embedded+Systems+Engineer;ECE+@+KARE+(Class+of+2028);Team+Lead%2C+NXP+Cup+India+2026;Silicon%2C+RTL+%26+Physical+Design;«Этот+профиль+выглядит+потрясающе!»" alt="Typing SVG" />
+  <p>
+    <b>Hardware & Embedded Systems Engineer</b> • <b>He/Him</b> • <b>ECE @ KARE '28</b>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=VLSI+%26+Embedded+Systems+Engineer;ECE+@+KARE+(Class+of+2028);Team+Lead%2C+NXP+Cup+India+2026;Silicon%2C+RTL+%26+Physical+Design;Building+Autonomous+Racing+Hardware" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
+<img align="right" src="./alya.gif" width="230" alt="Mascot: Alya" style="border-radius: 8px; margin-left: 20px;" />
 
-### 🌸 About Me
+### 👨‍💻 About Me
 
-> *«Если ты не посмотришь мои проекты, я обижусь!»*  
-> *(If you don't check out my projects, I'll be upset!)*
+> ❄️ **Favorite Anime Mascot**: Alisa Mikhailovna Kujou (*Roshidere*)  
+> 💬 *«Посмотри на его проекты!» — "Go check out his engineering projects!"*
 
 - 🎓 **Undergrad**: Second-year B.Tech in Electronics and Communication Engineering (ECE) at **Kalasalingam Academy of Research and Education** (Class of 2028).
-- 🔬 **Primary Focus**: **VLSI Design**, **Physical Design**, RTL Architecture & Timing Closure.
-- 🏎️ **Leadership**: **Team Lead** for **NXP Cup India 2026** (Autonomous model racing car design and embedded control).
-- ⚡ **Passion**: Crafting low-level firmware, digital hardware logic, and exploring silicon implementation.
+- 🔬 **Core Focus**: **VLSI Design**, **Physical Design**, RTL Architecture & Timing Closure.
+- 🏎️ **Leadership**: **Team Lead** for **NXP Cup India 2026** (Autonomous model racing car design and embedded firmware).
+- ⚡ **Passion**: Crafting bare-metal firmware, digital logic circuits, and silicon hardware architectures.
 
 <br clear="right"/>
 
@@ -65,12 +70,12 @@
 ### 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnanm5&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=FF7597&text_color=E2E8F0&bg_color=0d1117" height="165" alt="Hari's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnanm5&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=FF7597&text_color=E2E8F0&bg_color=0d1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnanm5&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=E2E8F0&bg_color=0d1117" height="165" alt="Hari's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnanm5&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=E2E8F0&bg_color=0d1117" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnanm5&theme=tokyonight&border=00D4FF&stroke=00D4FF&ring=FF7597&fire=FF7597&currStreakLabel=00D4FF&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnanm5&theme=tokyonight&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF8C00&currStreakLabel=00D4FF&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,5 +93,5 @@
 </p>
 
 <p align="center">
-  <sub>Designed with 💙 & 🌸 styled after Alya (Alisa Mikhailovna Kujou)</sub>
+  <sub>⚡ Built by <b>Hari Krishnan</b> • Powered by Silicon & Low-Level Code</sub>
 </p>
